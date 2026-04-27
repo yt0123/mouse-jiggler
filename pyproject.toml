@@ -3,7 +3,7 @@ requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "mouse-jiggler"
+name = "simple-mouse-jiggler"
 version = "0.1.0"
 description = "Jiggle the mouse to prevent the computer from going to sleep."
 readme = "README.md"

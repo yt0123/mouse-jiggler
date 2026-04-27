@@ -6,7 +6,7 @@ It is written in Python and uses the `pyautogui` library to control the mouse.
 ## Getting Started
 
 ```bash
-pip install mouse-jiggler
+pip install simple-mouse-jiggler
 ```
 
 ## Usage
