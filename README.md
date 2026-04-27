@@ -1,7 +1,10 @@
 # Mouse Jiggler
 
-This is a simple mouse jiggler application that simulates mouse movement to prevent the computer from going to sleep or activating the screensaver.
+This is a simple mouse jiggler application that simulates mouse movement to prevent the computer from going to sleep or
+activating the screensaver.
 It is written in Python and uses the `pyautogui` library to control the mouse.
+
+Supported platforms include Windows, macOS, and Linux.
 
 ## Getting Started
 
